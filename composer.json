@@ -1,0 +1,17 @@
+{
+    "name": "wilder/composer",
+    "description": "quete composer1",
+    "authors": [
+        {
+            "name": "Blustery33",
+            "email": "guillaume.moultson@gmail.com"
+        }
+    ],
+    "require": {},
+
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
